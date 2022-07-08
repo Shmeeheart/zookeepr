@@ -36,4 +36,4 @@ router.post('/animals', (req, res) => {
   }
 });
 
-module.expors = router;
+module.exports = router;
